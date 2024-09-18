@@ -1,0 +1,18 @@
+CREATE SEQUENCE consultorioSequence
+    START WITH 1
+    INCREMENT BY 1
+    MINVALUE 1
+    CACHE 1;
+
+CREATE SEQUENCE citaSequence
+    START WITH 1
+    INCREMENT BY 1
+    MINVALUE 1
+    CACHE 1;
+
+CREATE SEQUENCE pacienteSequence
+    START WITH 1
+    INCREMENT BY 1
+    MINVALUE 1
+    CACHE 1;
+
